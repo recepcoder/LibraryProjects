@@ -2,7 +2,7 @@
 ## Kütüphane Yönetim Sistemi 
 
 
-![Login Menüsü](loginmenu.png)
+![Login Menüsü](/img/loginmenu.png)
 
 Console Çalıştırıldığında  Giriş için 2 seçenek bulunmakta :
 
@@ -34,4 +34,4 @@ Admin Kullanıcılar giriş yaptıktan sonra :
 ### Giriş yaptıktan sonra kullanıcı menüleri
 | Admin Kullanıcılar | Customer Kullanıcılar |
 | --------------- | ---------------- |
-| ![Login Menüsü](adminmain.png) | ![Login Menüsü](usermain.png) |
+| ![Login Menüsü](/img/adminmain.png) | ![Login Menüsü](/img/usermain.png) |
