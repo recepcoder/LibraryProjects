@@ -1,0 +1,26 @@
+package io.recepkara.project.library.menu.generic;
+
+public enum MenuName {
+    MAIN_LOGIN,
+    USER_LOGIN,
+    ADMIN_LOGIN,
+    ADMIN_MAIN_MENU,
+    ADMIN_SEARCH_USERS,
+    ADMIN_VIEW_USER,
+    ADMIN_EDIT_USER,
+    ADMIN_DELETE_USER,
+    ADMIN_CREATE_USER,
+    ADMIN_SEARCH_BOOKS,
+    ADMIN_VIEW_BOOK,
+    ADMIN_EDIT_BOOK,
+    ADMIN_DELETE_BOOK,
+    ADMIN_CREATE_BOOK,
+    LOG_OFF,
+    //USER VALUES
+    USER_MAIN_MENU,
+    MY_PROFILE,
+    BORROW_BOOK,
+    RETURN_BOOK,
+    UPDATE_MY_PROFILE,
+    SEE_MY_PROFILE
+}
